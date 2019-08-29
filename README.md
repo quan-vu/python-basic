@@ -1,0 +1,2 @@
+# python-best-practice
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e8f311683e1040839196e51c8e0fad63)](https://app.codacy.com/app/quan-vu/python-best-practice?utm_source=github.com&utm_medium=referral&utm_content=quan-vu/python-best-practice&utm_campaign=Badge_Grade_Dashboard)
